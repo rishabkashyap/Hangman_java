@@ -18,7 +18,7 @@ public class Hangman
 		{
 			case 1: playGame();
 			break;
-			case 2: instructGame();
+		
 			break;
 			case 3: exitGame();
 			break;
